@@ -93,7 +93,7 @@ Activate the virtual environment:
 Navigate to the repository folder:
 
 ```
-cd DiabetesPredictor
+cd Breast-cancer-classifier
 ```
 
 Install the required packages:
